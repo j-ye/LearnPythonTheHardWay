@@ -1,0 +1,111 @@
+Exercise 1:
+print()             print
+""                  around string
+''                  around string
+\n                  new line
+
+
+Exercise2:
+#                   comment
+
+
+Exercise 3:
+,                   used to separate arguments in print()
++                   plus - addition
+-                   minus - subtraction
+/                   slash - divide
+*                   asterisk - multiply
+%                   percent - mod
+<                   less-than
+>                   greater-than
+<=                  less than equal
+>=                  greater than equal
+
+
+Exercise 4:
+define variables
+define variables based on arithmetics of other variables
+
+
+Exercise 5:
+%d                  print out a number
+%s                  print out a string
+
+
+Exercise 6:
+%r                  print out exactly the code
++                   concatenate two strings
+
+
+Exercise 7:
+"" * 10             print string ten times
+
+
+Exercise 8:
+formatter. "%r %r %r %r" $( , , , )
+
+
+Exercise 9:
+"""
+
+"""                 print multiple lines
+
+Exercise 10:
+\"                  escape character for "
+\'                  escape character for '
+\t                  escape character for tab
+\\                  escape character for \
+
+
+Exercise 11:
+input()             asks for user input. usually assign that a variable
+
+
+Exercise 12:
+input(" ")          String inside as prompt
+
+
+Exercise 13:
+from sys import argv                        sys module/library. modules give feastures
+
+script, first, second, third = argv         when running the script, give three parameters
+
+
+Exercise 14:
+Prompting and passing.
+
+
+Exercise 15:
+txt = open(filename)            filename is the from argv. Now txt is the opened document. can do a few things with txt.
+txt.read()                      read the txt
+print(txt.read())               print out the txt
+
+
+Exercise 16:
+target = open(filename, 'w')    open file in write mode
+target.truncate()               empties the file
+target.write(string)
+target.close()                  close the file
+
+
+Exercise 17:
+input = open(from_file)
+indata = input.read()
+len(indata)                     length of the file, gives number of bytes
+
+
+Exercise 18:
+def name():                     define a function. ends with colon 
+    write function
+    
+Exercise 19:
+define function. Use %d function. arguments can do math
+
+
+Exercise 20:
+f.seek(0)                       go to file offset 0
++=                              x += 1   x = x + 1
+
+
+Exercise 21:
+
